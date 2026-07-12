@@ -1,3 +1,3 @@
 # New Project
 This project was created by local system.
-created by Sweta Singh Rana
+created by Sweta Singh Rana.
